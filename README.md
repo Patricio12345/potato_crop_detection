@@ -1,5 +1,7 @@
 # potato_crop_detection
 
+## Detection of potato crops in advanced vegetative stage using Sentinel 2 with remote sensing in the Peruvian Andes
+
 This is the repository of files used to build the database for this study.
 
 All satellite images were obtained using the Sentinel-2 API in Python.
